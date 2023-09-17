@@ -1,6 +1,6 @@
 # Hello, I'm Syed Abdul Raheem 👋
 
-I'm a Full Stack Developer and XR Developer.
+I'm a Full Stack and XR Developer.
 
 ## 💫 About Me
 
@@ -23,3 +23,8 @@ Here are some of the technologies I work with:
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdul-raheem-a71017209/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SyedRah70992513)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Raheem&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Raheem&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
