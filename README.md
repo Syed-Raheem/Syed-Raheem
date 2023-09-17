@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer and XR Developer.
 
-##💫 About Me
+## 💫 About Me
 
 - 🎓 I hold a B.Tech degree from KL University.
 - 💻 Full Stack Developer with a passion for creating web applications and exploring the world of XR.
@@ -10,7 +10,7 @@ I'm a Full Stack Developer and XR Developer.
 - 🕶️ Experienced in building immersive XR experiences using AR and VR technologies.
 - 💡 I'm always eager to learn and experiment with new technologies.
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
 Here are some of the technologies I work with:
 
