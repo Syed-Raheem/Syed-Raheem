@@ -22,6 +22,6 @@ Here are some of the technologies I work with:
 
 ## Get in Touch
 
-- 📧 Email: syedabdulraheem801@gmail.com
-- 💼 LinkedIn: syed-abdul-raheem(https://www.linkedin.com/in/syed-abdul-raheem-a71017209/)
-- 🐦 Twitter: SyedRah70992513(https://twitter.com/SyedRah70992513)
+📧 <!-- syedabdulraheem801@gmail.com -->
+💼 <!-- https://www.linkedin.com/in/syed-abdul-raheem-a71017209/ -->
+🐦 <!-- [Twitter Profile Link](https://twitter.com/SyedRah70992513)https://twitter.com/SyedRah70992513 -->
