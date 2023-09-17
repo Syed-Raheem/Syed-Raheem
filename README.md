@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm [Syed Abdul Raheem] 👋
 
-<!--
-**Syed-Raheem/Syed-Raheem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer and XR (Extended Reality) Enthusiast. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I hold a B.Tech degree from KL University.
+- 💻 Full Stack Developer with a passion for creating web applications and exploring the world of XR.
+- 🌐 Proficient in both frontend and backend development.
+- 🕶️ Experienced in building immersive XR experiences using AR and VR technologies.
+- 💡 I'm always eager to learn and experiment with new technologies.
+
+## Tech Stack
+
+Here are some of the technologies I work with:
+
+- 💻 Frontend: HTML, CSS, JavaScript, React
+- 🌐 Backend: Node.js, Express, Python
+- 🗄️ Databases: SQL, MongoDB
+- 🕶️ XR: Unity, ARCore, ARKit, VR/AR development
+- 🚀 DevOps: Docker, CI/CD
