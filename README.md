@@ -20,6 +20,6 @@ Here are some of the technologies I work with:
 - 🕶️ XR: Unity, ARCore, ARKit, MR/VR/AR development
 - 🚀 DevOps: Docker
 
-## Get in Touch
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdul-raheem-a71017209/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SyedRah70992513)
