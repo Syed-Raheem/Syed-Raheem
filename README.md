@@ -14,11 +14,11 @@ I'm a Full Stack and XR Developer.
 
 Here are some of the technologies I work with:
 
-- 💻 Frontend: HTML, CSS, JavaScript, React
-- 🌐 Backend: Node.js, Express, Python
-- 🗄️ Databases: MySQL, PostgreSQL, MongoDB
-- 🕶️ XR: Unity, ARCore, ARKit, MR/VR/AR development
-- 🚀 DevOps: Docker
+- 💻 Frontend: HTML, CSS, JavaScript, React.
+- 🌐 Backend: Node.js, Express, Python.
+- 🗄️ Databases: MySQL, PostgreSQL, MongoDB.
+- 🕶️ XR: Unity, ARCore, ARKit, MR/VR/AR development.
+- 🚀 DevOps: Docker.
 
 ## 🌐 Socials
 
